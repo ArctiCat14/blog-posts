@@ -5,7 +5,6 @@ tags:
   - number-theory
 ---
 
----
 # 1 Statement
 
 最初，你有 $x$ 张蓝色牌和 $y$ 张红色牌。此外，还有一个变量 $k$，初始为 $1$。
@@ -42,4 +41,3 @@ $$\Delta=(k_a-1)(n-p_a+1)+(k_b+1)(n-p_b)+\sum_{i=a+1}^{b-1}k_i(n-p_i+1)-\sum_{i=
 
 
 
----

@@ -5,7 +5,6 @@ tags:
   - nowcoder
 ---
 
----
 # 1 Statement
 
 - $n\times m$ 网格，每格填 0、1、2，相邻格子数字不同，
@@ -91,4 +90,3 @@ void solve() {
 ```
 
 
----

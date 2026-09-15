@@ -7,7 +7,6 @@ tags:
 source: https://atcoder.jp/contests/abc471/tasks/abc471_f
 ---
 
----
 # 1 Statement
 
 给定 $N$ 个由数字组成的字符串 $S_1,\dots,S_N$​。
@@ -46,4 +45,3 @@ source: https://atcoder.jp/contests/abc471/tasks/abc471_f
 >- 若 $x\leq K$，所选的 $K$ 个字符串即为 $S_1, \dots, S_K$。
 >- 若 $x>K$，除 $x$ 之外的其余 $K-1$ 个字符串必然是 $S_1, \dots, S_{K-1}$。且此时应选择能使 $\mathrm{INT}(S_x)$ 最大的 $x$。
 
----

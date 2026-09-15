@@ -5,7 +5,6 @@ tags:
 source: https://codeforces.com/problemset/problem/2247/B
 ---
 
----
 # 1 Statement
 
 
@@ -19,4 +18,3 @@ source: https://codeforces.com/problemset/problem/2247/B
 
 
 
----

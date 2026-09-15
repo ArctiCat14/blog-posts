@@ -6,7 +6,6 @@ tags:
 source: https://www.luogu.com.cn/problem/P5656
 ---
 
----
 # 1 Solution
 
 题目要求我们求出方程
@@ -68,4 +67,3 @@ void solve(int cas) {
 }
 ```
 
----

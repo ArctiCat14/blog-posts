@@ -5,7 +5,6 @@ tags:
   - nowcoder
 ---
 
----
 # 1 Statement
 
 Alice 和 Bob 轮流构造一个长度为 $n$ 的排列。
@@ -63,4 +62,3 @@ Bob 若想保证 $f(p)_2\geq k$，需要保证 $2m-k+1\geq (k-1)-2+1$，即 $k\l
 
 
 
----

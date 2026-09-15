@@ -6,7 +6,6 @@ tags:
 source: https://atcoder.jp/contests/abc468/tasks/abc468_g
 ---
 
----
 # 1 Statement
 
 - 给一个整数 $N$ 和由 `o` 和 `x` 组成的长度为 $N$ 的字符串 $S$。
@@ -62,4 +61,3 @@ void solve() {
 }
 ```
 
----

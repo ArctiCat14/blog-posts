@@ -5,7 +5,6 @@ tags:
 source: https://www.nitacm.com/problem_show.php?pid=608
 ---
 
----
 # 1 Statement
 
 给一棵 $n$ 个节点的树，和一个常数 $k$。  
@@ -24,6 +23,4 @@ source: https://www.nitacm.com/problem_show.php?pid=608
 
 
 
-
----
 

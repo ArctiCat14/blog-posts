@@ -6,7 +6,6 @@ tags:
 source: https://codeforces.com/problemset/problem/2248/C
 ---
 
----
 # 1 Statement
 
 给你一个长度为 $2n$ 的数组 $a$。从 $1$ 到 $n$ 的每个整数在 $a$ 中正好出现两次。
@@ -32,5 +31,3 @@ $$f_i=\begin{cases}
 f_{i - 1}+1 & (\text{otherwise})
 \end{cases}$$
 其中 $\mathrm{ls}[i]$ 为 $a[i]$ 首次出现的位置。
-
----

@@ -6,7 +6,6 @@ tags:
 source: https://codeforces.com/problemset/problem/2249/A
 ---
 
----
 # 1 Statement
 
 给定 $n\ (1\leq n\leq 5000)$ 个元素排成一行，编号为 $1, 2, \dots, n$。每个元素 $i$ 附带两组区间 $[l_i, r_i]$ 和 $[u_i, v_i]$。
@@ -31,4 +30,3 @@ source: https://codeforces.com/problemset/problem/2249/A
 用 $y$ 替换 $x$ 后，原方案中后面的每个元素都是可用的，并且不会减少必须进行后续选择的剩余后缀。
 因此，只要存在可行解，贪心算法也会成功。
 
----
