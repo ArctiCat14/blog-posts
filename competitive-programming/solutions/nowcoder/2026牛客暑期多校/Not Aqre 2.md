@@ -1,7 +1,7 @@
 ---
 tags:
   - number-theory
-  - nowcoder
+platform: nowcoder
 date: 2026-07-25T18:55:00
 ---
 

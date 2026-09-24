@@ -1,7 +1,7 @@
 ---
 tags:
   - string
-  - nowcoder
+platform: nowcoder
 date: 2026-07-29T20:11:00
 ---
 

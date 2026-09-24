@@ -1,7 +1,7 @@
 ---
 tags:
   - greedy
-  - codeforces
+platform: codeforces
 source: https://codeforces.com/problemset/problem/2249/A
 date: 2026-07-28T19:16:00
 ---

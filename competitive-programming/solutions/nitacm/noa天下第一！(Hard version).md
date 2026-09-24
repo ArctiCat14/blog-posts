@@ -1,6 +1,7 @@
 ---
 tags:
   - dynamic-programming
+platform: nitacm
 source: https://www.nitacm.com/problem_show.php?pid=608
 date: 2026-09-05T16:49:00
 ---
@@ -13,7 +14,7 @@ date: 2026-09-05T16:49:00
 
 对于每个 $x$，输出：
 1. 受影响节点的数量；
-2. 所有受影响节点拥挤程度的乘积，对 109+7109+7 取模。
+2. 所有受影响节点拥挤程度的乘积，对 109+7 取模。
 
 
 ---

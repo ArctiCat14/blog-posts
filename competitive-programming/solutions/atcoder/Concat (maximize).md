@@ -1,8 +1,8 @@
 ---
 tags:
-  - atcoder
   - greedy
   - string
+platform: atcoder
 source: https://atcoder.jp/contests/abc471/tasks/abc471_f
 date: 2026-08-16T15:51:00
 ---

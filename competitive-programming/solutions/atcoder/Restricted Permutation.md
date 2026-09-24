@@ -1,7 +1,7 @@
 ---
 tags:
   - combinatorics
-  - atcoder
+platform: atcoder
 source: https://atcoder.jp/contests/abc468/tasks/abc468_g
 date: 2026-07-26T14:58:00
 ---

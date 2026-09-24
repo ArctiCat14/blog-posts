@@ -1,7 +1,7 @@
 ---
 tags:
   - game-theory
-  - nowcoder
+platform: nowcoder
 date: 2026-07-29T21:44:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - codeforces
   - dynamic-programming
+platform: codeforces
 source: https://codeforces.com/problemset/problem/2248/C
 date: 2026-08-02T12:43:00
 ---
