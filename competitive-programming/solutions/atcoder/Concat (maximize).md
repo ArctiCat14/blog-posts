@@ -1,10 +1,10 @@
 ---
 tags:
-  - solution
   - atcoder
   - greedy
   - string
 source: https://atcoder.jp/contests/abc471/tasks/abc471_f
+date: 2026-08-16T15:51:00
 ---
 
 # 1 Statement

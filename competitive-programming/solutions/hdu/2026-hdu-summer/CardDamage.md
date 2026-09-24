@@ -1,8 +1,8 @@
 ---
 tags:
-  - solution
   - hdu
   - number-theory
+date: 2026-08-06T21:36:00
 ---
 
 # 1 Statement

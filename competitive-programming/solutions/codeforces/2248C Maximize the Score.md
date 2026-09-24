@@ -1,9 +1,9 @@
 ---
 tags:
-  - solution
   - codeforces
   - dynamic-programming
 source: https://codeforces.com/problemset/problem/2248/C
+date: 2026-08-02T12:43:00
 ---
 
 # 1 Statement

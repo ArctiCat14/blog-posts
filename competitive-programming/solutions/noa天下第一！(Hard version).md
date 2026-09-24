@@ -1,8 +1,8 @@
 ---
 tags:
-  - solution
   - dynamic-programming
 source: https://www.nitacm.com/problem_show.php?pid=608
+date: 2026-09-05T16:49:00
 ---
 
 # 1 Statement

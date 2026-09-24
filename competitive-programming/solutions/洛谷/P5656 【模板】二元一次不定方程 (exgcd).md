@@ -1,9 +1,9 @@
 ---
 tags:
-  - solution
   - number-theory
   - luogu
 source: https://www.luogu.com.cn/problem/P5656
+date: 2026-07-22T19:18:00
 ---
 
 # 1 Solution

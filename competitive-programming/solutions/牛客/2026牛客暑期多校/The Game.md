@@ -1,8 +1,8 @@
 ---
 tags:
-  - solution
   - game-theory
   - nowcoder
+date: 2026-07-29T21:44:00
 ---
 
 # 1 Statement

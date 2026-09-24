@@ -1,8 +1,8 @@
 ---
 tags:
-  - solution
   - string
   - nowcoder
+date: 2026-07-29T20:11:00
 ---
 
 # 1 Statement
