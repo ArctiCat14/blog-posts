@@ -18,7 +18,7 @@ date: 2026-11-04 21:36
 经典的区间 DP 问题。
 可以在原有的位置中再添加两个位置 $c_0 = 0, c_{n + 1} = L$。
 
-定义状态 $\mathrm{dp}[i][j]$ 表示处理完区间 $[c_i, c_j]$ 所需的最小总代价，有状态转移方程：
-$$\mathrm{dp}[i][j]=\min_{i<k<j}(\mathrm{dp}[i][k]+\mathrm{dp}[k][j]+c_j-c_i)$$
+定义状态 $\mathrm{dp}[i][j]\ (i<j)$ 表示处理完区间 $[c_i, c_j]$ 所需的最小总代价，有状态转移方程：
+$$\mathrm{dp}[i][j]=\min_{i<k<j}\left(\mathrm{dp}[i][k]+\mathrm{dp}[k][j]+c_j-c_i\right)$$
 
 要注意区间 DP 是按区间长度从小到大开始转移的。
