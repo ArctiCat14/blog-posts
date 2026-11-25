@@ -20,14 +20,14 @@ date: 2026-08-02T12:43:00
 ---
 # 2 Solution
 
-考虑两个长度分别为 $A,B\ (A> B)$ 的区间 $I_1,I_2$，$I_1$ 完全包含 $I_2$。
-考虑先删除 $I_2$ 再删除 $I_1$ 和直接删除 $I_1$ 两种情况，可以得到两者收益的关系
-$$(A-B)^2+B^2\leq A^2$$
+考虑两个长度分别为 $A,B\ (A>B)$ 的区间 $I_1,I_2$，$I_1$ 完全包含 $I_2$。
+考虑先删除 $I_2$ 再删除 $I_1$ 和直接删除 $I_1$ 两种情况，可以得到两者收益的关系：
+$$(A-B)^2+B^2< A^2$$
 因此只需要尽量删除那些原始区间而不是被缩短的区间就可以使收益最大化。
 
-设 $f_i$ 为前缀 $a_1,\dots,a_i$ 的最大收益，有状态转移方程
+设 $f_i$ 为前缀 $a_1,\dots,a_i$ 的最大收益，有状态转移方程：
 $$f_i=\begin{cases}
-\max\left\{f_{i-1}+1,f_{\mathrm{ls}[i]-1}+(i-\mathrm{ls}[i]+1)^2\right\} & \mathrm{ls}[i]\text{ exists}\\
+\max\left\{f_{i-1}+1,f_{\mathrm{ls}[a[i]]-1}+(i-\mathrm{ls}[a[i]]+1)^2\right\} & (\mathrm{ls}[a[i]]\text{ exists})\\
 f_{i - 1}+1 & (\text{otherwise})
 \end{cases}$$
-其中 $\mathrm{ls}[i]$ 为 $a[i]$ 首次出现的位置。
+其中 $\mathrm{ls}[x]$ 为 $x$ 首次出现的位置。
